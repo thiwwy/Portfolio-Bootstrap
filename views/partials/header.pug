@@ -1,0 +1,42 @@
+header
+  nav(class= "myheader navbar navbar-default navbar-fixed-top")
+    .container
+      .navbar-header
+        button.navbar-toggle(type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1")
+          span.sr-only
+            | Toggle navigation
+          span.icon-bar
+          span.icon-bar
+          span.icon-bar
+        //My Brand
+        a.navbar-brand(href="#")
+          | thiwwydesign
+      //Navbar Links
+      #bs-example-navbar-collapse-1(class="collapse navbar-collapse")
+        ul(class="nav navbar-nav navbar-right")
+          li.active
+            a(href="#Home")
+              | Home
+          li
+            a(href="#About_me")
+              | About me
+          li
+            a(href="#Fields")
+              | Fields
+
+          li.dropdown
+            a(href="#" class="dropdown-toggle" data-toggle="dropdown")
+              | Projects
+              span.caret
+            ul.dropdown-menu
+              li
+                a(href="#Projects")
+                  | All my projects
+              li.divider(role="separator")
+              - for(var i=0; i<projects.length; i++)
+                li
+                  a(href=projects[i].title)= projects[i].title
+
+          li
+            a(href="#Contact")
+              | Contact

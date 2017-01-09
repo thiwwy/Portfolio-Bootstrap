@@ -1,0 +1,111 @@
+{
+  "projects" : [{
+    "title" : "Leaderbet",
+    "cover" : "Leaderbet_Cover.jpg",
+    "date" : "Feb 2014 - Oct 2015",
+    "location" : "Malta",
+    "role" : "Graphic & Web Designer",
+
+    "short_description" : "Leaderbet is a betting company located in Malta. Working for them gave me the chance to create the graphic identity of the company, design assets for the website, produce web and mobile mock-ups and create the printed material.",
+
+    "description" : "Leaderbet is a betting company located in Malta. In Leaderbet I designed many graphic elements for the websites, including web site mock-ups and printed materials for customers in Italy, Spain and Montenegro. In this company I led a team of four developers and we were responsible for the development of wireframes, web applications and mobile apps",
+
+    "background" : "",
+    "hero_images" : [{
+      "picture" : "banner1.jpg",
+      "txt_title" : "Web Material",
+      "txt" : "Sample of the company's web site: banners, boxes and backgrounds"
+      },
+
+      {
+      "picture" : "banner2.jpg",
+      "txt_title" : "mobile",
+      "txt" : ""
+      },
+
+      {
+        "picture" : "banner3.jpg",
+        "txt_title" : "Promo",
+        "txt" : ""
+      }],
+
+    "web" : "",
+    "facebook" : "",
+    "twitter" : "",
+    "youtube" : ""
+
+  },
+
+  {
+    "title" : "TES",
+    "cover" : "TES.jpg",
+    "date" : "Feb 2014 - Oct 2015",
+    "location" : "Malta",
+    "role" : "Graphic & Web Designer",
+
+    "short_description" : "Leaderbet is a betting company located in Malta. Working for them gave me the chance to create the graphic identity of the company, design assets for the website, produce web and mobile mock-ups and create the printed material.",
+
+    "description" : "Leaderbet is a betting company located in Malta. In Leaderbet I designed many graphic elements for the websites, including web site mock-ups and printed materials for customers in Italy, Spain and Montenegro. In this company I led a team of four developers and we were responsible for the development of wireframes, web applications and mobile apps",
+
+    "background" : "",
+    "hero_images" : [{
+      "picture" : "banner1.jpg",
+      "txt_title" : "Web Material",
+      "txt" : "Sample of the company's web site: banners, boxes and backgrounds"
+      },
+
+      {
+      "picture" : "banner2.jpg",
+      "txt_title" : "mobile",
+      "txt" : ""
+      },
+
+      {
+        "picture" : "banner3.jpg",
+        "txt_title" : "Promo",
+        "txt" : ""
+      }],
+
+    "web" : "",
+    "facebook" : "",
+    "twitter" : "",
+    "youtube" : ""
+
+  },
+  {
+    "title" : "Ogun",
+    "cover" : "Ogun.jpg",
+    "date" : "Feb 2014 - Oct 2015",
+    "location" : "Malta",
+    "role" : "Graphic & Web Designer",
+
+    "short_description" : "Leaderbet is a betting company located in Malta. Working for them gave me the chance to create the graphic identity of the company, design assets for the website, produce web and mobile mock-ups and create the printed material.",
+
+    "description" : "Leaderbet is a betting company located in Malta. In Leaderbet I designed many graphic elements for the websites, including web site mock-ups and printed materials for customers in Italy, Spain and Montenegro. In this company I led a team of four developers and we were responsible for the development of wireframes, web applications and mobile apps",
+
+    "background" : "",
+    "hero_images" : [{
+      "picture" : "banner1.jpg",
+      "txt_title" : "Web Material",
+      "txt" : "Sample of the company's web site: banners, boxes and backgrounds"
+      },
+
+      {
+      "picture" : "banner2.jpg",
+      "txt_title" : "mobile",
+      "txt" : ""
+      },
+
+      {
+        "picture" : "banner3.jpg",
+        "txt_title" : "Promo",
+        "txt" : ""
+      }],
+
+    "web" : "",
+    "facebook" : "",
+    "twitter" : "",
+    "youtube" : ""
+
+  }]
+}

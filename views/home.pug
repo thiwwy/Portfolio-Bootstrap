@@ -1,0 +1,13 @@
+
+html
+  include partials/head.pug
+  body
+    include partials/header.pug
+    section#Projects
+      ul
+        - for(var i=0; i<projects.length; i++)
+          li= projects[i].title
+      p= author.name
+
+  include partials/footer.pug
+  include partials/script.pug
