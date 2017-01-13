@@ -9,7 +9,7 @@ This app use Express, so be sure to have node.js on your computer before to star
 You can check typing
   npm -v
 
-##==== To make ot work
+##==== To make it work
 
 To run the project:
 1 - install node_module in the root -> npm install

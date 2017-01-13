@@ -1,5 +1,6 @@
 {
   "projects" : [{
+    "id" : "leaderbet",
     "title" : "Leaderbet",
     "cover" : "Leaderbet_Cover.jpg",
     "date" : "Feb 2014 - Oct 2015",
@@ -37,6 +38,7 @@
   },
 
   {
+    "id" : "tes",
     "title" : "TES",
     "cover" : "TES.jpg",
     "date" : "Feb 2014 - Oct 2015",
@@ -73,6 +75,7 @@
 
   },
   {
+    "id" : "ogun",
     "title" : "Ogun",
     "cover" : "Ogun.jpg",
     "date" : "Feb 2014 - Oct 2015",
