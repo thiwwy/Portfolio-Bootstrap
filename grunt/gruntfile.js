@@ -6,7 +6,7 @@ module.exports = function( grunt ) {
 
   grunt.initConfig({
     watch: {
-      files: '../assets/stylesheets/sass/**/*.scss', // 1
+      files: '../assets/stylesheets/sass/**/*.sass', // 1
       tasks: [ 'sass', 'cssmin' ]
     },
     sass: require( './custom_modules/sass' ).task, // 2
