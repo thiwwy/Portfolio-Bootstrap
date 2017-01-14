@@ -8,8 +8,8 @@ exports.task = {
     files: [{
       expand: true, // 2
       cwd: '../assets/stylesheets/sass',
-      //src: [ '**/*.sass' ],
-      src: [ 'main.sass' ],
+      src: [ '**/*.sass' ],
+      //src: [ 'main.sass' ],
       dest: '../assets/stylesheets/css',
       ext: '.css'
     }]

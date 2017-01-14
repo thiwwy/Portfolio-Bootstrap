@@ -13,5 +13,12 @@ You can check typing
 
 To run the project:
 1 - install node_module in the root -> npm install
+2 - install pug -> npm install pug
 2 - run: node app.js
     and on your browser go to localhost:3000
+
+##==== To automatically export SASS in css
+
+1 - cd grunt/
+2 - npm install
+3 - gulp watch
